@@ -1,1 +1,5 @@
-N-S-Sapegin
+- 👋 Hi, I’m @Nikolay Sapegin
+- 👀 I’m interested in programmoing.
+- 🌱 I’m currently learning C,C++,C#,WPF,SQL,.NET,Git and more
+- 💞️ I’m looking to collaborate on any interesting project to up my skill
+- 📫 How to reach me n.s.sapegin@mail.ru
